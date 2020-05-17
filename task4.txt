@@ -1,0 +1,142 @@
+Number of occurence for each activity in each day:
+
+Day: 1
+Breakfast has happened 1 time(s).
+Grooming has happened 3 time(s).
+Toileting has happened 2 time(s).
+Sleeping has happened 1 time(s).
+Leaving has happened 1 time(s).
+Spare_Time/TV has happened 6 time(s).
+Showering has happened 1 time(s).
+Lunch has happened 1 time(s).
+
+Day: 2
+Breakfast has happened 1 time(s).
+Grooming has happened 4 time(s).
+Toileting has happened 3 time(s).
+Sleeping has happened 1 time(s).
+Spare_Time/TV has happened 7 time(s).
+Showering has happened 1 time(s).
+Snack has happened 1 time(s).
+Lunch has happened 1 time(s).
+
+Day: 3
+Breakfast has happened 1 time(s).
+Toileting has happened 2 time(s).
+Grooming has happened 3 time(s).
+Sleeping has happened 1 time(s).
+Leaving has happened 1 time(s).
+Spare_Time/TV has happened 4 time(s).
+Showering has happened 1 time(s).
+
+Day: 4
+Breakfast has happened 1 time(s).
+Toileting has happened 4 time(s).
+Grooming has happened 2 time(s).
+Sleeping has happened 1 time(s).
+Leaving has happened 1 time(s).
+Spare_Time/TV has happened 6 time(s).
+Showering has happened 1 time(s).
+Snack has happened 2 time(s).
+
+Day: 5
+Breakfast has happened 1 time(s).
+Grooming has happened 6 time(s).
+Toileting has happened 5 time(s).
+Sleeping has happened 1 time(s).
+Leaving has happened 2 time(s).
+Spare_Time/TV has happened 7 time(s).
+Showering has happened 1 time(s).
+Snack has happened 1 time(s).
+Lunch has happened 1 time(s).
+
+Day: 6
+Breakfast has happened 1 time(s).
+Toileting has happened 3 time(s).
+Grooming has happened 4 time(s).
+Sleeping has happened 1 time(s).
+Spare_Time/TV has happened 5 time(s).
+Showering has happened 1 time(s).
+Snack has happened 1 time(s).
+Lunch has happened 1 time(s).
+
+Day: 7
+Breakfast has happened 1 time(s).
+Grooming has happened 5 time(s).
+Toileting has happened 6 time(s).
+Sleeping has happened 1 time(s).
+Leaving has happened 1 time(s).
+Spare_Time/TV has happened 8 time(s).
+Showering has happened 1 time(s).
+Snack has happened 2 time(s).
+Lunch has happened 1 time(s).
+
+Day: 8
+Breakfast has happened 1 time(s).
+Grooming has happened 5 time(s).
+Toileting has happened 1 time(s).
+Sleeping has happened 1 time(s).
+Leaving has happened 1 time(s).
+Spare_Time/TV has happened 4 time(s).
+Showering has happened 1 time(s).
+
+Day: 9
+Breakfast has happened 1 time(s).
+Grooming has happened 5 time(s).
+Toileting has happened 2 time(s).
+Sleeping has happened 1 time(s).
+Leaving has happened 2 time(s).
+Spare_Time/TV has happened 6 time(s).
+Showering has happened 1 time(s).
+
+Day: 10
+Breakfast has happened 1 time(s).
+Grooming has happened 4 time(s).
+Toileting has happened 1 time(s).
+Sleeping has happened 1 time(s).
+Leaving has happened 2 time(s).
+Spare_Time/TV has happened 3 time(s).
+Showering has happened 1 time(s).
+
+Day: 11
+Breakfast has happened 1 time(s).
+Grooming has happened 3 time(s).
+Toileting has happened 2 time(s).
+Sleeping has happened 1 time(s).
+Spare_Time/TV has happened 3 time(s).
+Showering has happened 1 time(s).
+Lunch has happened 1 time(s).
+
+Day: 28
+Breakfast has happened 1 time(s).
+Toileting has happened 3 time(s).
+Grooming has happened 2 time(s).
+Sleeping has happened 1 time(s).
+Leaving has happened 1 time(s).
+Spare_Time/TV has happened 4 time(s).
+Showering has happened 1 time(s).
+Snack has happened 1 time(s).
+Lunch has happened 1 time(s).
+
+Day: 29
+Breakfast has happened 1 time(s).
+Toileting has happened 4 time(s).
+Grooming has happened 3 time(s).
+Sleeping has happened 1 time(s).
+Leaving has happened 1 time(s).
+Spare_Time/TV has happened 6 time(s).
+Showering has happened 1 time(s).
+Snack has happened 1 time(s).
+Lunch has happened 1 time(s).
+
+Day: 30
+Breakfast has happened 1 time(s).
+Toileting has happened 6 time(s).
+Grooming has happened 2 time(s).
+Sleeping has happened 1 time(s).
+Leaving has happened 1 time(s).
+Spare_Time/TV has happened 8 time(s).
+Showering has happened 1 time(s).
+Snack has happened 2 time(s).
+Lunch has happened 1 time(s).
+

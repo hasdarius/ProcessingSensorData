@@ -1,0 +1,10 @@
+Number of occurence for each activity during the monitoring time:
+Breakfast has happened 14 time(s).
+Toileting has happened 44 time(s).
+Grooming has happened 51 time(s).
+Sleeping has happened 14 time(s).
+Leaving has happened 14 time(s).
+Spare_Time/TV has happened 77 time(s).
+Showering has happened 14 time(s).
+Snack has happened 11 time(s).
+Lunch has happened 9 time(s).

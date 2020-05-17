@@ -1,0 +1,10 @@
+These are the entire durations for each activity throughout the monitoring data period:
+Breakfast has a total time of: 0 days and 02:58:08 hours.
+Toileting has a total time of: 0 days and 02:20:34 hours.
+Grooming has a total time of: 0 days and 02:40:42 hours.
+Sleeping has a total time of: 5 days and 11:03:31 hours.
+Leaving has a total time of: 1 days and 03:44:44 hours.
+Spare_Time/TV has a total time of: 5 days and 22:28:55 hours.
+Showering has a total time of: 0 days and 01:34:09 hours.
+Snack has a total time of: 0 days and 00:06:01 hours.
+Lunch has a total time of: 0 days and 05:13:31 hours.
